@@ -6,8 +6,8 @@
 
 ## <picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> </picture> <b>About Me</b> <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px> </picture>
 
-- 🫡 Currently working as a `Frontend Developer` at Itti & `Tech Lead` at @Try-Catch-Factory
-- 💼 `Open to new opportunities`, this is [`my resume`](https://drive.google.com/file/d/1WREdOPvy--QyKyAm6gV7li0w9Lpz41x7/view?usp=sharing)
+- 🫡 Currently working as a `Frontend Developer` at Itti & `Tech Lead` at [TryCatch Factory](https://github.com/Try-Catch-Factory)
+- 🌟 `Open to new opportunities`, this is [`my resume`](https://drive.google.com/file/d/1WREdOPvy--QyKyAm6gV7li0w9Lpz41x7/view?usp=sharing)
 - 🤝 Enjoy supporting and collaborating on community projects, including `open source` initiatives. @Afordin
 - 📫 How to reach me: `franmavazq@gmail.com`
 - 🌐 [`My Portfolio`](https://mrandvx.com/)
@@ -168,6 +168,26 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
 
+## <img src="svg/streaming/twitchv2.svg" width=25px> Communities
+
+<p>
+  <a href="https://github.com/Trycatch-tv">
+    <img src="https://img.shields.io/badge/Trycatch%20TV-Community-blue?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/Indie-Creator-Community">
+    <img src="https://img.shields.io/badge/Indie%20Creator-Community-yellow?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/UXCorpRangel">
+    <img src="https://img.shields.io/badge/UX%20Corp%20Rangel-Community-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/EntrevistadorInteligente">
+    <img src="https://img.shields.io/badge/Entrevistador%20Inteligente-Community-orange?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/Afordin">
+    <img src="https://img.shields.io/badge/Afordin-Community-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github stats </b>
 
 <p align="left">
@@ -180,5 +200,7 @@
 ## 😊 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrandvx)
+
+<h3 align="center">Thank you for visiting my profile! 😊</h3>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
