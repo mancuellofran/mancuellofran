@@ -8,7 +8,7 @@
 
 - 🫡 Currently working as a `Frontend Developer` at Itti & `Tech Lead` at @Try-Catch-Factory
 - 💼 `Open to new opportunities`, this is [`my resume`](https://drive.google.com/file/d/1WREdOPvy--QyKyAm6gV7li0w9Lpz41x7/view?usp=sharing)
-- 🤝 Enjoy supporting and collaborating on community projects, including `open source` initiatives
+- 🤝 Enjoy supporting and collaborating on community projects, including `open source` initiatives. @Afordin
 - 📫 How to reach me: `franmavazq@gmail.com`
 - 🌐 [`My Portfolio`](https://mrandvx.com/)
 
