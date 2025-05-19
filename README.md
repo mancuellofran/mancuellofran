@@ -7,7 +7,7 @@
 ## <picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> </picture> <b>About Me</b> <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px> </picture>
 
 - 🫡 Currently working as a `Frontend Developer` at [ITTI](https://github.com/ittidigital) & `Tech Lead` at [TryCatch Factory](https://github.com/Try-Catch-Factory)
-- 🌟 `Open to new opportunities`, this is [`my resume`](https://drive.google.com/file/d/1WREdOPvy--QyKyAm6gV7li0w9Lpz41x7/view?usp=sharing)
+- 🌟 `Open to new opportunities`
 - 🤝 Enjoy supporting and collaborating on community projects, including `open source` initiatives. @Afordin
 - 📫 How to reach me: `franmavazq@gmail.com`
 - 🌐 [`My Portfolio`](https://mancuellofran.com/)
