@@ -17,7 +17,7 @@
 ## Social <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mancuellofran/">
+  <a href="https://www.linkedin.com/in/franciscomancuello/">
     <img src="svg/social/linkedin.svg" alt="x" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="https://twitter.com/mancuellofran">
